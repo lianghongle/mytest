@@ -46,6 +46,10 @@
 			<a href="http://www.yiiframework.com/doc-2.0/" target="_blank">
 				英文文档
 			</a>
+			/
+			<a href="http://yii2.techbrood.com/" target="_blank">
+				Yii 2.0权威指南
+			</a>
 		</td>
 	</tr>
 	
